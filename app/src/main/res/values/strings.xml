@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookDataBase</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="show_users">show users</string>
+
+    <string-array name="books_array">
+        <item>Book A</item>
+        <item>Book B</item>
+        <item>Book C</item>
+    </string-array>
+</resources>
